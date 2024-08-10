@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "mssql9": {
+      "restored": true,
+      "restoreTime": "2024-08-10T08:07:04.0255397Z"
+    }
+  },
+  "parameters": {
+    "mssql9.resourceGroupName": {
+      "Name": "mssql9.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "myResourceGroupSSR"
+    },
+    "mssql9.subscriptionId": {
+      "Name": "mssql9.subscriptionId",
+      "Type": "subscription",
+      "Value": "ff399d11-88d7-4783-a7a7-37c6dbf2a17b"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAGZUOkBQ48kex0TYYA6urMwAAAAACAAAAAAAQZgAAAAEAACAAAACXMo8LkjH+pAXFhXgNarJGaB8QoSU6Ctz0nDXcSRifOwAAAAAOgAAAAAIAACAAAABNSCGxGJyJYnBaWhYFrkmrr2KRcVk7XPRx2SeTqAyqv4AAAABdNY9xm5I+C7hkj0nxPMyB+IB9xg2JJBfMu/qE7h49qe1dRo8AUA7vGRJxpJtocHubTxG15PRbqN0RuWB5Oxp2ONrCK7+bA3J5bCkqU6yIVqFN7bQ3E4+0jbtcadYdOMbRWbwSTswfxVh8nEc8MHT6dJDhZ47VxdsfX1KWVgVMb0AAAAACxVbOJo4uhzygY1o95oOPagWVosFV3i3jtjXIapiag185drRNXdrv7H4ud9tSLH9lTZ2z2J5dY5QpUnsCXw9G</EncryptedPassword>
+    <History>True|2024-07-11T03:16:03.1861172Z||;True|2024-07-11T15:09:33.8581678+12:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=20232094-PAVI\SQLEXPRESS%3bDatabase=SouthernSpiceRestaurant%3bTrusted_Connection=True%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

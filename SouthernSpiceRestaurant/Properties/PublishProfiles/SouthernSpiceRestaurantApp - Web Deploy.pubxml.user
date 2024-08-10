@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAGZUOkBQ48kex0TYYA6urMwAAAAACAAAAAAAQZgAAAAEAACAAAABzdpUMo7J2LtnGC4HTdcIcBYjDHswQJa8VKkPu1ahiSAAAAAAOgAAAAAIAACAAAACrtlQc/9r4Jmd5esxO7TTIhfHbynqP5AmeYiELuUA2u4AAAADEEWBLqgHTBGLzsmbMmQ1yhaMpaNyvHB/GtCCRITRLIO3ZR/B6IbYjbqa0I4nOHfgIARO0u42q6geuieToub6WL/rxAgeBPzreFG+iPR6CXNl7lQnq/Qx7klYi5Ee5rYqWqmFH5ixiWPgo7xK1bTUWQBzx0qA2hAi23p/Ignz+6UAAAADyFfAObSW+r8mdZiPzsClbNiDTqnTs3l/hnfSQclgMzxuJuP9caIs32DkJE22wTYGtOBW8a7krak/JcHrtmIPb</EncryptedPassword>
+    <History>True|2024-07-11T03:40:34.0933035Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:southernspicerestaurant2dbserver2.database.windows.net,1433%3bInitial Catalog=SouthernSpiceRestaurant_db2%3bUser Id=Pavitharan%40southernspicerestaurant2dbserver2%3bPassword=%40Crickettharan3</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

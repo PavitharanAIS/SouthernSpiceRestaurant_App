@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/SSRAppFinal/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsssrconnectionstringnew_CC5976881F",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/ssrdbserver/databases/SSR_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:ssrconnectionstringnew"
+    }
+  }
+}

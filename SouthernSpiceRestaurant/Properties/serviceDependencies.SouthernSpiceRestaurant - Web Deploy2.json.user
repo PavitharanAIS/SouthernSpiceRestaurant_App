@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "mssql7": {
+      "restored": true,
+      "restoreTime": "2024-07-13T13:44:50.6697732Z"
+    }
+  },
+  "parameters": {
+    "mssql7.subscriptionId": {
+      "Name": "mssql7.subscriptionId",
+      "Type": "subscription",
+      "Value": "ff399d11-88d7-4783-a7a7-37c6dbf2a17b"
+    },
+    "mssql7.resourceGroupName": {
+      "Name": "mssql7.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "myResourceGrpSSR"
+    }
+  }
+}

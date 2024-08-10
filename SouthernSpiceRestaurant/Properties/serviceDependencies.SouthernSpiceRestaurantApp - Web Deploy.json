@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql5": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/SouthernSpiceRestaurantApp/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsmyAzureConnection_924D3E8BDB",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/southernspicerestaurant2dbserver2/databases/SouthernSpiceRestaurant_db2",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:myAzureConnection"
+    }
+  }
+}

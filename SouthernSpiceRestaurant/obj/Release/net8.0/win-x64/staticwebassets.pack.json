@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\obj\\Release\\net8.0\\win-x64\\scopedcss\\projectbundle\\SouthernSpiceRestaurant.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SouthernSpiceRestaurant.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\css\\cardSlider.css",
+      "PackagePath": "staticwebassets\\css\\cardSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\WaterSplashImg.png",
+      "PackagePath": "staticwebassets\\images\\WaterSplashImg.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\06f86db2-e508-45da-a3db-471f85497d68.png",
+      "PackagePath": "staticwebassets\\images\\dish\\06f86db2-e508-45da-a3db-471f85497d68.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\19df378b-d431-477a-b2e1-68998d13d8fb.png",
+      "PackagePath": "staticwebassets\\images\\dish\\19df378b-d431-477a-b2e1-68998d13d8fb.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\20143a3b-1881-4c59-a926-a45f49d73ad6.png",
+      "PackagePath": "staticwebassets\\images\\dish\\20143a3b-1881-4c59-a926-a45f49d73ad6.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\265a8fb9-9c5b-4a38-acee-7b05e63288fc.png",
+      "PackagePath": "staticwebassets\\images\\dish\\265a8fb9-9c5b-4a38-acee-7b05e63288fc.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\27213c4c-8c68-419b-a248-04a6b47e5334.png",
+      "PackagePath": "staticwebassets\\images\\dish\\27213c4c-8c68-419b-a248-04a6b47e5334.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\2e3a2a24-b57c-4335-b29e-a09cb7a42093.png",
+      "PackagePath": "staticwebassets\\images\\dish\\2e3a2a24-b57c-4335-b29e-a09cb7a42093.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\2fe69a21-9048-4cc9-96e5-2d7caac2e3e1.png",
+      "PackagePath": "staticwebassets\\images\\dish\\2fe69a21-9048-4cc9-96e5-2d7caac2e3e1.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\424845a4-363b-49e9-adc0-ac20b96ccfdd.png",
+      "PackagePath": "staticwebassets\\images\\dish\\424845a4-363b-49e9-adc0-ac20b96ccfdd.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\5a1d8892-4d5d-4356-8004-40a89ba52ea1.png",
+      "PackagePath": "staticwebassets\\images\\dish\\5a1d8892-4d5d-4356-8004-40a89ba52ea1.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\5e449066-c112-4fa1-a6f1-ef5a2ae0bdbd.png",
+      "PackagePath": "staticwebassets\\images\\dish\\5e449066-c112-4fa1-a6f1-ef5a2ae0bdbd.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\5f508d05-0a14-4eea-9fe1-691df162eb25.png",
+      "PackagePath": "staticwebassets\\images\\dish\\5f508d05-0a14-4eea-9fe1-691df162eb25.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\73fa57b5-b151-4ae8-90ef-56ac705b0827.png",
+      "PackagePath": "staticwebassets\\images\\dish\\73fa57b5-b151-4ae8-90ef-56ac705b0827.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\8c4ac2af-b6ad-49d9-862b-1c85ed86de36.png",
+      "PackagePath": "staticwebassets\\images\\dish\\8c4ac2af-b6ad-49d9-862b-1c85ed86de36.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\a3650869-9fe9-4029-b200-a2deeda21c98.png",
+      "PackagePath": "staticwebassets\\images\\dish\\a3650869-9fe9-4029-b200-a2deeda21c98.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\af00b350-dd66-4110-877c-231f91bba303.png",
+      "PackagePath": "staticwebassets\\images\\dish\\af00b350-dd66-4110-877c-231f91bba303.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\bafa4db7-3ed8-447d-a9ff-bfc319e70e7f.png",
+      "PackagePath": "staticwebassets\\images\\dish\\bafa4db7-3ed8-447d-a9ff-bfc319e70e7f.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\bd022ee5-5bbf-4b31-9ea4-641771e325fd.png",
+      "PackagePath": "staticwebassets\\images\\dish\\bd022ee5-5bbf-4b31-9ea4-641771e325fd.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\c1a9f81d-1c73-4a79-a821-86610639e162.png",
+      "PackagePath": "staticwebassets\\images\\dish\\c1a9f81d-1c73-4a79-a821-86610639e162.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\c1e020e9-fec4-47d2-984d-6a0cab6ff753.png",
+      "PackagePath": "staticwebassets\\images\\dish\\c1e020e9-fec4-47d2-984d-6a0cab6ff753.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\c5cc9b6d-fa96-4f7d-9b94-777956692041.png",
+      "PackagePath": "staticwebassets\\images\\dish\\c5cc9b6d-fa96-4f7d-9b94-777956692041.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\images\\dish\\e877e73e-8881-4a3f-9183-c0e7f33b8992.png",
+      "PackagePath": "staticwebassets\\images\\dish\\e877e73e-8881-4a3f-9183-c0e7f33b8992.png"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\js\\dish.js",
+      "PackagePath": "staticwebassets\\js\\dish.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\js\\dishDetailModal.js",
+      "PackagePath": "staticwebassets\\js\\dishDetailModal.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\para005\\OneDrive - Auckland Institute of Studies\\Desktop\\SSR_Assignment1\\SSRApp\\SouthernSpiceRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x64\\staticwebassets\\msbuild.SouthernSpiceRestaurant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x64\\staticwebassets\\msbuild.build.SouthernSpiceRestaurant.props",
+      "PackagePath": "build\\SouthernSpiceRestaurant.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.SouthernSpiceRestaurant.props",
+      "PackagePath": "buildMultiTargeting\\SouthernSpiceRestaurant.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.SouthernSpiceRestaurant.props",
+      "PackagePath": "buildTransitive\\SouthernSpiceRestaurant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
